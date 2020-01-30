@@ -1,0 +1,119 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+
+    <title>Picture of The Water Cycle</title>
+
+
+  <g id="circle">
+  <circle cx="110" cy="100" r="70" stroke="orange" stroke-width="3" fill="yellow" />
+  <title> Sun </title>
+  </g>
+
+  <g id="ellipse">
+  <ellipse cx="155" cy="480" rx="150" ry="70" style="fill:blue" />
+  <title> Sea </title>
+  </g>
+
+  <g id="Circle">
+  <circle cx="300" cy="100" r="40" fill="Lightblue"/>
+   <circle cx="350" cy="70" r="40" fill="Lightblue"/>
+   <circle cx="400" cy="70" r="40" fill="Lightblue"/>
+   <circle cx="350" cy="90" r="40" fill="Lightblue"/>
+
+   <circle cx="500" cy="100" r="40" fill="Silver"/>
+   <circle cx="550" cy="70" r="40" fill="Silver"/>
+   <circle cx="600" cy="70" r="40" fill="Silver"/>
+   <circle cx="650" cy="100" r="40" fill="Silver"/>
+   <title> Clouds </title>
+   </g>
+
+  <g id="arrow1">
+  <line x1="550" y1="300" x2="550" y2="150" style="stroke:rgb(255,0,0);stroke-width:9" />
+  <line x1="450" y1="250" x2="550" y2="300" style="stroke:rgb(255,0,0);stroke-width:8" />
+  <line x1="650" y1="250" x2="550" y2="300" style="stroke:rgb(255,0,0);stroke-width:8" />
+  <title> Rain falling down from clouds </title>
+  </g>
+
+  <g id="arrow2">
+  <line x1="155" y1="360" x2="155" y2="410" style="stroke:rgb(255,0,0);stroke-width:9" />
+  <line x1="110" y1="400" x2="155" y2="360" style="stroke:rgb(255,0,0);stroke-width:8" />
+  <line x1="210" y1="400" x2="155" y2="360" style="stroke:rgb(255,0,0);stroke-width:8" />
+  <title> Water evaporating from the surface into WaterVapour</title>
+  </g>
+
+  <g id="Rectagle">
+  <rect x="307" y="420" width="450" height="100"
+  style="fill:brown;stroke:brown;stroke-width:5;fill-opacity:0.6;stroke-opacity:0.9" />
+  <title> Land </title>
+  </g>
+
+  <g id="circle">
+  <circle cx="290" cy="440" r="40" fill="blue"/>
+  <circle cx="300" cy="490" r="40" fill="blue"/>
+  <circle cx="335" cy="420" r="40" fill="blue"/>
+  <circle cx="35" cy="435" r="40" fill="blue"/>
+  <circle cx="35" cy="500" r="40" fill="blue"/>
+  <title> Sea </title>
+  </g>
+
+  <g id="ellipse">
+  <ellipse cx="210" cy="370" rx="9" ry="5"
+  style="fill:none;stroke:lightblue;stroke-width:3" />
+  <ellipse cx="190" cy="350" rx="9" ry="5"
+  style="fill:none;stroke:lightblue;stroke-width:3" />
+  <ellipse cx="170" cy="290" rx="9" ry="5"
+  style="fill:none;stroke:lightblue;stroke-width:3" />
+  <ellipse cx="220" cy="320" rx="9" ry="5"
+  style="fill:none;stroke:lightblue;stroke-width:3" />
+  <ellipse cx="250" cy="250" rx="9" ry="5"
+  style="fill:none;stroke:lightblue;stroke-width:3" />
+  <ellipse cx="285" cy="290" rx="9" ry="5"
+  style="fill:none;stroke:lightblue;stroke-width:3" />
+  <ellipse cx="275" cy="220" rx="9" ry="5"
+  style="fill:none;stroke:lightblue;stroke-width:3" />
+  <title> Water vapor </title>
+  </g>
+
+  <g id="triangle">
+  <polygon points="600,290 650,370 550,370" style="fill:lime;stroke:purple;stroke-width:1" />
+  <polygon points="700,290 750,370 650,370" style="fill:lime;stroke:purple;stroke-width:1" />
+  <line x1="600" y1="370" x2="600" y2="418" style="stroke:rgb(150,75,0);stroke-width:5" />
+  <line x1="700" y1="370" x2="700" y2="418" style="stroke:rgb(150,75,0);stroke-width:5" />
+  <title> Trees </title>
+  </g>
+
+  <g id="lines">
+  <line x1="350" y1="150" x2="350" y2="180" style="stroke:rgb(0,0,255);stroke-width:5" />
+  <line x1="365" y1="200" x2="365" y2="180" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="380" y1="220" x2="380" y2="240" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="400" y1="160" x2="400" y2="190" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="450" y1="200" x2="450" y2="170" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="650" y1="200" x2="650" y2="170" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="620" y1="220" x2="620" y2="240" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="610" y1="200" x2="610" y2="220" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="500" y1="190" x2="500" y2="220" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="525" y1="200" x2="525" y2="170" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="350" y1="350" x2="350" y2="370" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="400" y1="280" x2="400" y2="300" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="450" y1="300" x2="450" y2="320" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="630" y1="250" x2="630" y2="220" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="610" y1="280" x2="610" y2="300" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <line x1="590" y1="170" x2="590" y2="190" style="stroke:rgb(0,0,255);stroke-width:5" />
+    <title>Rain</title>
+    </g>
+
+        <g id="text">
+        <text x="655" y="220" fill="Black">Precipitation</text>
+        <title> Precipitation </title>
+        </g>
+
+        <g id="text">
+        <text x="65" y="350" fill="Black">Eavporation</text>
+        <title> Eavporation </title>
+        </g>
+
+        <g id="text">
+        <text x="250" y="180" fill="Black">Condensation</text>
+        <title> Condensation </title>
+        </g>
+</svg>
